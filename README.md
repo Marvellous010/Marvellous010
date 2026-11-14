@@ -4,8 +4,7 @@
 
 <p align="center">
   <b>Software developer from Rotterdam</b>, currently doing my internship at <b>DIVD.works</b>.<br>
-  I build PHP web applications with Symfony and Laravel. Right now I'm working on a membership platform<br>
-  with subscription payments, webhooks and automatic access control.
+  I build PHP web applications with Symfony and Laravel, and I'm growing my skills in C#/.NET and secure software.
 </p>
 
 ```php
@@ -13,7 +12,6 @@ class Marvellous extends Developer
 {
     public string $role      = 'Software Developer';
     public string $currently = 'Intern @ DIVD.works';
-    public string $building  = 'Coaching membership platform (Symfony 7.4)';
     public string $studying  = 'Software Developer (MBO 4) @ Techniek College Rotterdam';
     public string $city      = 'Rotterdam, NL';
     public array  $stack     = ['PHP', 'Symfony', 'Laravel', 'PostgreSQL', 'C#'];
@@ -23,7 +21,7 @@ class Marvellous extends Developer
 ## Experience
 
 <p align="center">
-  <img src="assets/experience.svg" width="100%" alt="Software Development Intern at DIVD.works (now): building a Symfony coaching membership platform with Stripe payments, webhooks and session credits. Student Software Developer MBO 4 at Techniek College Rotterdam.">
+  <img src="assets/experience.svg" width="100%" alt="Software Development Intern at DIVD.works (now): building PHP web applications with Symfony. Student Software Developer MBO 4 at Techniek College Rotterdam.">
 </p>
 
 ## Stack
