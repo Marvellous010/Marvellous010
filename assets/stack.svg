@@ -1,58 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Front-end: HTML, CSS and SCSS, JavaScript, Tailwind, Blade. Back-end: PHP, Laravel, C# and .NET, OOP. Data and tools: MySQL, PDO, Git, GitHub.">
-  <defs>
-    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#4F46E5"/>
-      <stop offset="1" stop-color="#818CF8"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="260" rx="18" fill="#0B0D1A"/>
-
-  <g font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif">
-    <!-- column 1 -->
-    <g transform="translate(32,32)">
-      <rect width="360" height="196" rx="12" fill="#11132A" stroke="#312E81"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Front-end: HTML, CSS and SCSS, JavaScript, Tailwind, Blade, Twig. Back-end: PHP, Symfony, Laravel, Doctrine, C# and .NET, OOP, PHPUnit, xUnit. Data and tools: PostgreSQL, MySQL, Stripe, REST APIs, Webhooks, Docker, Git, GitHub.">
+  <defs><linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4F46E5"/><stop offset="1" stop-color="#818CF8"/></linearGradient></defs>
+  <rect width="1200" height="300" rx="18" fill="#0B0D1A"/>
+  <g transform="translate(32,32)">
+      <rect width="360" height="236" rx="12" fill="#11132A" stroke="#312E81"/>
       <rect width="360" height="4" rx="2" fill="url(#bar)"/>
-      <text x="24" y="44" font-size="13" font-family="Consolas, Menlo, monospace" fill="#818CF8">01 / front-end</text>
-      <text x="24" y="76" font-size="24" font-weight="700" fill="#FFFFFF">What you see</text>
-      <g font-size="15" font-family="Consolas, Menlo, monospace" fill="#C7D2FE">
-        <rect x="24" y="100" width="64" height="30" rx="15" fill="#1E1B4B"/><text x="56" y="120" text-anchor="middle">HTML</text>
-        <rect x="96" y="100" width="108" height="30" rx="15" fill="#1E1B4B"/><text x="150" y="120" text-anchor="middle">CSS / SCSS</text>
-        <rect x="212" y="100" width="116" height="30" rx="15" fill="#1E1B4B"/><text x="270" y="120" text-anchor="middle">JavaScript</text>
-        <rect x="24" y="140" width="94" height="30" rx="15" fill="#1E1B4B"/><text x="71" y="160" text-anchor="middle">Tailwind</text>
-        <rect x="126" y="140" width="70" height="30" rx="15" fill="#1E1B4B"/><text x="161" y="160" text-anchor="middle">Blade</text>
-      </g>
-    </g>
-
-    <!-- column 2 -->
-    <g transform="translate(420,32)">
-      <rect width="360" height="196" rx="12" fill="#11132A" stroke="#312E81"/>
+      <text x="24" y="44" font-size="13" font-family="Consolas, Menlo, 'Courier New', monospace" fill="#818CF8">01 / front-end</text>
+      <text x="24" y="76" font-size="24" font-weight="700" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" fill="#FFFFFF">What you see</text><rect x="24" y="98" width="50" height="30" rx="15" fill="#1E1B4B"/><text x="49.0" y="115" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#C7D2FE">HTML</text><rect x="82" y="98" width="94" height="30" rx="15" fill="#1E1B4B"/><text x="129.0" y="115" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#C7D2FE">CSS / SCSS</text><rect x="184" y="98" width="94" height="30" rx="15" fill="#1E1B4B"/><text x="231.0" y="115" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#C7D2FE">JavaScript</text><rect x="24" y="138" width="79" height="30" rx="15" fill="#1E1B4B"/><text x="63.5" y="155" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#C7D2FE">Tailwind</text><rect x="111" y="138" width="58" height="30" rx="15" fill="#1E1B4B"/><text x="140.0" y="155" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#C7D2FE">Blade</text><rect x="177" y="138" width="50" height="30" rx="15" fill="#1E1B4B"/><text x="202.0" y="155" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#C7D2FE">Twig</text></g>
+  <g transform="translate(420,32)">
+      <rect width="360" height="236" rx="12" fill="#11132A" stroke="#312E81"/>
       <rect width="360" height="4" rx="2" fill="url(#bar)"/>
-      <text x="24" y="44" font-size="13" font-family="Consolas, Menlo, monospace" fill="#818CF8">02 / back-end</text>
-      <text x="24" y="76" font-size="24" font-weight="700" fill="#FFFFFF">How it works</text>
-      <g font-size="15" font-family="Consolas, Menlo, monospace" fill="#C7D2FE">
-        <rect x="24" y="100" width="60" height="30" rx="15" fill="#1E1B4B"/><text x="54" y="120" text-anchor="middle">PHP</text>
-        <rect x="92" y="100" width="90" height="30" rx="15" fill="#1E1B4B"/><text x="137" y="120" text-anchor="middle">Laravel</text>
-        <rect x="190" y="100" width="112" height="30" rx="15" fill="#1E1B4B"/><text x="246" y="120" text-anchor="middle">C# / .NET</text>
-        <rect x="24" y="140" width="60" height="30" rx="15" fill="#1E1B4B"/><text x="54" y="160" text-anchor="middle">OOP</text>
-        <rect x="92" y="140" width="64" height="30" rx="15" fill="#1E1B4B"/><text x="124" y="160" text-anchor="middle">MVC</text>
-        <rect x="164" y="140" width="80" height="30" rx="15" fill="#1E1B4B"/><text x="204" y="160" text-anchor="middle">xUnit</text>
-      </g>
-    </g>
-
-    <!-- column 3 -->
-    <g transform="translate(808,32)">
-      <rect width="360" height="196" rx="12" fill="#11132A" stroke="#312E81"/>
+      <text x="24" y="44" font-size="13" font-family="Consolas, Menlo, 'Courier New', monospace" fill="#818CF8">02 / back-end</text>
+      <text x="24" y="76" font-size="24" font-weight="700" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" fill="#FFFFFF">How it works</text><rect x="24" y="98" width="43" height="30" rx="15" fill="#1E1B4B"/><text x="45.5" y="115" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#C7D2FE">PHP</text><rect x="75" y="98" width="72" height="30" rx="15" fill="#1E1B4B"/><text x="111.0" y="115" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#C7D2FE">Symfony</text><rect x="155" y="98" width="72" height="30" rx="15" fill="#1E1B4B"/><text x="191.0" y="115" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#C7D2FE">Laravel</text><rect x="24" y="138" width="79" height="30" rx="15" fill="#1E1B4B"/><text x="63.5" y="155" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#C7D2FE">Doctrine</text><rect x="111" y="138" width="86" height="30" rx="15" fill="#1E1B4B"/><text x="154.0" y="155" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#C7D2FE">C# / .NET</text><rect x="205" y="138" width="43" height="30" rx="15" fill="#1E1B4B"/><text x="226.5" y="155" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#C7D2FE">OOP</text><rect x="24" y="178" width="72" height="30" rx="15" fill="#1E1B4B"/><text x="60.0" y="195" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#C7D2FE">PHPUnit</text><rect x="104" y="178" width="58" height="30" rx="15" fill="#1E1B4B"/><text x="133.0" y="195" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#C7D2FE">xUnit</text></g>
+  <g transform="translate(808,32)">
+      <rect width="360" height="236" rx="12" fill="#11132A" stroke="#312E81"/>
       <rect width="360" height="4" rx="2" fill="url(#bar)"/>
-      <text x="24" y="44" font-size="13" font-family="Consolas, Menlo, monospace" fill="#818CF8">03 / data &amp; tools</text>
-      <text x="24" y="76" font-size="24" font-weight="700" fill="#FFFFFF">Where it lives</text>
-      <g font-size="15" font-family="Consolas, Menlo, monospace" fill="#C7D2FE">
-        <rect x="24" y="100" width="76" height="30" rx="15" fill="#1E1B4B"/><text x="62" y="120" text-anchor="middle">MySQL</text>
-        <rect x="108" y="100" width="60" height="30" rx="15" fill="#1E1B4B"/><text x="138" y="120" text-anchor="middle">PDO</text>
-        <rect x="176" y="100" width="94" height="30" rx="15" fill="#1E1B4B"/><text x="223" y="120" text-anchor="middle">REST API</text>
-        <rect x="24" y="140" width="60" height="30" rx="15" fill="#1E1B4B"/><text x="54" y="160" text-anchor="middle">Git</text>
-        <rect x="92" y="140" width="80" height="30" rx="15" fill="#1E1B4B"/><text x="132" y="160" text-anchor="middle">GitHub</text>
-        <rect x="180" y="140" width="80" height="30" rx="15" fill="#1E1B4B"/><text x="220" y="160" text-anchor="middle">XAMPP</text>
-      </g>
-    </g>
-  </g>
+      <text x="24" y="44" font-size="13" font-family="Consolas, Menlo, 'Courier New', monospace" fill="#818CF8">03 / data &amp; integrations</text>
+      <text x="24" y="76" font-size="24" font-weight="700" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" fill="#FFFFFF">Where it lives</text><rect x="24" y="98" width="94" height="30" rx="15" fill="#1E1B4B"/><text x="71.0" y="115" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#C7D2FE">PostgreSQL</text><rect x="126" y="98" width="58" height="30" rx="15" fill="#1E1B4B"/><text x="155.0" y="115" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#C7D2FE">MySQL</text><rect x="192" y="98" width="65" height="30" rx="15" fill="#1E1B4B"/><text x="224.5" y="115" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#C7D2FE">Stripe</text><rect x="24" y="138" width="86" height="30" rx="15" fill="#1E1B4B"/><text x="67.0" y="155" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#C7D2FE">REST APIs</text><rect x="118" y="138" width="79" height="30" rx="15" fill="#1E1B4B"/><text x="157.5" y="155" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#C7D2FE">Webhooks</text><rect x="24" y="178" width="65" height="30" rx="15" fill="#1E1B4B"/><text x="56.5" y="195" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#C7D2FE">Docker</text><rect x="97" y="178" width="43" height="30" rx="15" fill="#1E1B4B"/><text x="118.5" y="195" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#C7D2FE">Git</text><rect x="148" y="178" width="65" height="30" rx="15" fill="#1E1B4B"/><text x="180.5" y="195" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#C7D2FE">GitHub</text></g>
 </svg>
